@@ -1,4 +1,4 @@
-# nested_conformal_pd
+# cascade_conformal_pd
 Code for Diaz-Rincon et al 2026 Nat. Mach. Intell. "Improved Prediction of Parkinson’s Disease Medication Needs Through Nested Conformal Prediction"
 
 This notebook implements three strategies for integrating Venn-Abers calibration (Stage 1) with Conformal Prediction (Stage 2):
