@@ -1,6 +1,6 @@
 # CASCADE Conformal Prediction
 
-**Official Implementation of: *"CASCADE Conformal Prediction: Uncertainty-Adaptive Prediction Intervals for Two-Stage Clinical Decision Support"* (XYZ et al., 2026)**
+**Official Implementation of: *"CASCADE Conformal Prediction: Uncertainty-Adaptive Prediction Intervals for Two-Stage Clinical Decision Support"* (Diaz-Rincon et al., 2026)**
 
 This repository contains the code for applying CASCADE (Calibrated Adaptive Scaling via Conformal And Distributional Estimation) to Parkinson's Disease medication management. 
 
